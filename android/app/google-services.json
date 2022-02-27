@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43442182136",
+    "project_id": "up-chat-2af59",
+    "storage_bucket": "up-chat-2af59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43442182136:android:0e2f7f8c72f9fb1d01a80d",
+        "android_client_info": {
+          "package_name": "com.ayushraj.up_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43442182136-v87cainaoo6sfi9dmcgdi8ej8m9kfi84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mk4xH2zv1tGOESQisByVefCTgR5be7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43442182136-v87cainaoo6sfi9dmcgdi8ej8m9kfi84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
